@@ -191,3 +191,4 @@ export class HUD {
         ctx.closePath();
     }
 }
+
